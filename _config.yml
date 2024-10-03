@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Home
+url: https://blog.oussema.tn
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -41,7 +41,7 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
+  - title: Posts
     url: /archive
 
   - title: About

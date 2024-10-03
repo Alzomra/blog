@@ -3,27 +3,11 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Welcome to the blog! this is where I share cloud and security projects and news that I find interesting. 
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Have a feed back or just want to reach out ? you can use the [contact page]({% link pages/contact.md %}) or email directly at contact@oussema.tn
 
-There are currently two themes built on Poole:
+-----
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
